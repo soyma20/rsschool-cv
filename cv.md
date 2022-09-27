@@ -25,3 +25,17 @@ I`m looking for a job as *junior full-stack developer* or *junior front-end deve
 10. Hibernate
 11. Spring
 
+### Code examples
+
+### Experience
+
+1. [Front-end project for Zoo at RS school realized on vanilla JS (currently working with)](https://github.com/rolling-scopes-school/soyma20-JSFE2022Q3/tree/online-zoo)
+2. [Front-end project with JSONPlaceholder realized on vanilla JS](https://github.com/soyma20/normal_JS/tree/master/mini%20progect)
+3. [Front-end project with Rick and Morty API realized on React.js](https://github.com/soyma20/react-apr-soyma20/tree/RickAndMortyApi)
+3. [Front-end project with Okten School API realized on React.js with interceptors and authorization](https://github.com/soyma20/react-apr-soyma20/tree/bonus_authorization)
+3. [Front-end project with TMDB API realized on Angular.js with interceptors and authorization](https://github.com/soyma20/ng20222/tree/movieProgect)
+
+
+
+
+
