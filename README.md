@@ -1,2 +1,4 @@
 # rsschool-cv
-cv-tasks
+rsschool *cv-tasks*
+
+[Ссылка на cv](https://soyma20.github.io/rsschool-cv/cv)
